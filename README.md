@@ -1,4 +1,4 @@
-Django tutorial * does a learn *
+Creating a blog using Django. Started with a tutorial then went off off-piste
 
 It's basically witchcraft. 
 
